@@ -1,0 +1,27 @@
+h3{
+    font-family: 70px;
+    color: rgb(77, 80, 247);
+}
+input{
+    color: rgb(89, 73, 230);
+    height: 30px;
+    width: 392px;
+}
+.butt{
+    width: 400px;
+    height: 40px;
+    color: rgba(251, 251, 255, 0.932);
+    background-color: blue;
+}
+.butt:hover{
+    color: rgb(152, 206, 228);
+}
+hr{
+    width: 250px;
+}
+.button2{
+    width: 250px;
+    height: 40px;
+    color: rgb(231, 231, 238);
+    background-color: rgb(56, 163, 56);
+}
